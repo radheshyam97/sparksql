@@ -1,0 +1,2 @@
+spark-submit --class EmpSalSum SparkEmpDemo.jar emp.csv empdetpout1
+
